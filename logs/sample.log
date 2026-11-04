@@ -1,0 +1,9 @@
+2026-10-18 09:00:00 INFO Connection accepted from 192.168.1.10
+2026-10-18 09:01:12 INFO Ordinary server message
+2026-10-18 09:02:24 WARN Repeated connection from 192.168.1.10
+2026-10-18 09:03:36 INFO Documentation client 192.0.2.25 requested a file
+2026-10-18 09:04:48 INFO SHA256 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2026-10-18 09:05:00 INFO More ordinary text between artifacts
+2026-10-18 09:06:12 INFO SHA256 0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef
+2026-10-18 09:07:24 INFO Duplicate SHA256 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2026-10-18 09:08:36 WARN Invalid address 999.999.999.999 must be ignored

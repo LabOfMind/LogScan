@@ -1,0 +1,5 @@
+value,type,result,date,status,malicious,suspicious,harmless,undetected,message
+192.168.1.10,IP,NOT_CHECKED,2026-10-18T12:15:21+03:00,mock,,,,,VirusTotal check skipped: API key was not provided
+192.0.2.25,IP,NOT_CHECKED,2026-10-18T12:15:21+03:00,mock,,,,,VirusTotal check skipped: API key was not provided
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,HASH,NOT_CHECKED,2026-10-18T12:15:21+03:00,mock,,,,,VirusTotal check skipped: API key was not provided
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef,HASH,NOT_CHECKED,2026-10-18T12:15:21+03:00,mock,,,,,VirusTotal check skipped: API key was not provided

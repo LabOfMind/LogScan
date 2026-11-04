@@ -1,0 +1,34 @@
+[
+    {
+        "value": "192.168.1.10",
+        "type": "IP",
+        "result": "NOT_CHECKED",
+        "date": "2026-10-18T12:15:20+03:00",
+        "status": "mock",
+        "message": "VirusTotal check skipped: API key was not provided"
+    },
+    {
+        "value": "192.0.2.25",
+        "type": "IP",
+        "result": "NOT_CHECKED",
+        "date": "2026-10-18T12:15:20+03:00",
+        "status": "mock",
+        "message": "VirusTotal check skipped: API key was not provided"
+    },
+    {
+        "value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "type": "HASH",
+        "result": "NOT_CHECKED",
+        "date": "2026-10-18T12:15:20+03:00",
+        "status": "mock",
+        "message": "VirusTotal check skipped: API key was not provided"
+    },
+    {
+        "value": "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef",
+        "type": "HASH",
+        "result": "NOT_CHECKED",
+        "date": "2026-10-18T12:15:20+03:00",
+        "status": "mock",
+        "message": "VirusTotal check skipped: API key was not provided"
+    }
+]
